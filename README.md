@@ -35,7 +35,7 @@ I focused on:
 ### 🎨 Design Tool
 
 - Built with **Figma**  
-- 🔗 [**View Live Figma Design**](https://www.figma.com/design/FgLBggEkxkOobR8wARSyPk/Moodify?node-id=0-1&t=OuHLbcIfN7umLNro-1)
+- 🔗 [**View Live Figma Design**](https://www.figma.com/design/FgLBggEkxkOobR8wARSyPk/Moodify?node-id=0-1&t=c14T6C8QzpTJ1a5Q-1)
 
 ---
 
